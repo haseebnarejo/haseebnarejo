@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Muhammad Haseeb
 
-🎯 **Frontend Developer** | Crafting responsive, user-focused web apps  
-💻 Passionate about clean code, modern frameworks, and seamless UI/UX
+🎯 **Frontend Developer** | Building scalable, high-performance, and responsive web applications
+💻 Committed to writing clean, maintainable code and delivering intuitive, user-centric interfaces using modern frameworks
 
 ---
 
