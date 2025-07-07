@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Haseeb Narejo
+## Hi there 👋 I'm Muhammad Haseeb
 
 🎯 **Frontend Developer** | Crafting responsive, user-focused web apps  
 💻 Passionate about clean code, modern frameworks, and seamless UI/UX
