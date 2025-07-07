@@ -17,15 +17,6 @@
 
 ---
 
-### 📫 How to reach me
+### 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/haseebnarejo](https://linkedin.com/in/haseebnarejo) *(update if needed)*  
-- Email: [youremail@example.com](mailto:youremail@example.com) *(add your email)*  
-
----
-
-### ⚡ Fun Fact
-
-> _"I’m a dreamer who writes his dreams in code."_  
-
-Thanks for visiting! 🌟
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Haseeb%20Narejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haseeb-narejo-/)
